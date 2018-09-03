@@ -1,3 +1,4 @@
+//ce code marche bien
 int buzzerPin = 8;
 
 void setup ()
